@@ -2,15 +2,19 @@
 Plugin for OpenPlanet that enhances in-game screenshot feature. The big advantage is the ability to take 360 panoramas!
 
 ## Features
+
 * Custom resolution
 * 3 output formats (`.webp`, `.jpg`, `.tga`)
 * 360 Panorama mode
 * Tiling
 
 ## Limitations
-* Sometimes there are noticeable seams in panorama mode
-* Order of tiles is usually incorrect in panorama mode in ManiaPlanet
-* Extreme resolution can cause crashes
+* Extreme resolutions can cause crashes
+* Panorama mode
+    * Inverted horizontally (Trackmania)
+    * TARGA (`.tga`) Red and Blue color shift (Trackmania)
+    * Sometimes there are noticeable seams due to changing lighting
+    * Incorrect order of tiles most of the time (ManiaPlanet)
 
 ## Download
 Currently you can download the plugin only on _Releases_ page.
