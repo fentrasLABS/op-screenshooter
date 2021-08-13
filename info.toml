@@ -1,0 +1,9 @@
+[meta]
+name     = "Screenshooter"
+author   = "DergnNamedSkye"
+category = "Utilities"
+version  = "0.1"
+
+[script]
+timeout = 0
+imports  = ["Icons.as"]
