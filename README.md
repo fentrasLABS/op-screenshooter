@@ -11,10 +11,11 @@ Plugin for OpenPlanet that enhances in-game screenshot feature. The big advantag
 ## Limitations
 * Extreme resolutions can cause crashes
 * Panorama mode
-    * Inverted horizontally (Trackmania)
-    * TARGA (`.tga`) Red and Blue color shift (Trackmania)
-    * Sometimes there are noticeable seams due to changing lighting
-    * Incorrect order of tiles most of the time (ManiaPlanet)
+    * Inverted horizontally
+    * TARGA (`.tga`) Red and Blue color shifting
+    * Noticeable seams due to changing lighting
+    * Incorrect order of tiles in ManiaPlanet (will be fixed in the next update)
+        * Toggle `Viewport.SystemConfig.IsSafeMade` to fix
 
 ## Download
 Currently you can download the plugin only on _Releases_ page.
