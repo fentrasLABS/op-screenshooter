@@ -1,4 +1,4 @@
-# Borders
+# Screenshooter
 Plugin for OpenPlanet that enhances in-game screenshot feature. The big advantage is the ability to take 360 panoramas!
 
 ## Features
