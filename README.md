@@ -19,7 +19,7 @@ Plugin for OpenPlanet that enhances in-game screenshot feature. The big advantag
 
 ## Download
 * [OpenPlanet](https://openplanet.nl/files/117)
-* [Releases](https://gitlab.com/DergnNamedSkye/op-screenshooter/releases)
+* [Releases](https://gitlab.com/DergnNamedSkye/op-screenshooter/-/releases)
 
 ## Screenshots
 
