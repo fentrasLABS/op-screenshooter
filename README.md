@@ -18,8 +18,8 @@ Plugin for OpenPlanet that enhances in-game screenshot feature. The big advantag
         * Toggle `Viewport.SystemConfig.IsSafeMade` to fix
 
 ## Download
-Currently you can download the plugin only on _Releases_ page.
-Later it will be released on the official plugins page.
+* [OpenPlanet](https://openplanet.nl/files/117)
+* [Releases](https://gitlab.com/DergnNamedSkye/op-screenshooter/releases)
 
 ## Screenshots
 
