@@ -1,4 +1,4 @@
-# Screenshooter
+# Screenshooter <sup><sub>Trackmania ManiaPlanet</sub></sup>
 Plugin for OpenPlanet that enhances in-game screenshot feature. The big advantage is the ability to take 360 panoramas!
 
 ## Features
@@ -15,7 +15,7 @@ Plugin for OpenPlanet that enhances in-game screenshot feature. The big advantag
     * TARGA (`.tga`) Red and Blue color shifting
     * Noticeable seams due to changing lighting
     * Incorrect order of tiles in ManiaPlanet (will be fixed in the next update)
-        * Toggle `Viewport.SystemConfig.IsSafeMade` to fix
+        * Toggle `Viewport.SystemConfig.IsSafeMade` or `Viewport.Cameras[1].UseViewDependantRendering` to fix
 
 ## Download
 * [OpenPlanet](https://openplanet.nl/files/117)
