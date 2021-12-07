@@ -2,7 +2,8 @@
 name     = "Screenshooter"
 author   = "DergnNamedSkye"
 category = "Utilities"
-version  = "0.1"
+version  = "0.2.0"
+siteid   = 117
 
 [script]
 timeout = 0
