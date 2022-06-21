@@ -423,7 +423,7 @@ void Screenshoot()
 	yield();
 }
 
-bool OnKeyPress(bool down, VirtualKey key)
+void OnKeyPress(bool down, VirtualKey key)
 {
 	if (Setting_KeyboardShortcuts && down) {
 		if (!capturing && key == Setting_StartCapturingKey) {
@@ -432,7 +432,6 @@ bool OnKeyPress(bool down, VirtualKey key)
 			panic = true;
 		}
 	}
-	return false;
 }
 
 void Main()

@@ -6,6 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2022-06-22
+### Fixed
+- Make "OnKeyPress" return "void" instead of "bool"
+- Lower OPENPLANET header size and indicate GitHub link as a mirror
+- Repository links
+
+### Changed
+- Folder structure format used by OpenPlanet developer
+- CONTRIBUTING Wiki reference link
+- LICENSE date and author
+- Plugin version number
+
 ## [0.2.0] - 2021-11-07
 ### Added
 - "Fix Tiles" option for ManiaPlanet (swapping equirectangular panorama tiles if they are flipped).
@@ -44,6 +56,7 @@ see more on [Ubisoft Discussions](https://discussions.ubisoft.com/topic/123309/c
 ### Added
 - Initial release.
 
-[Unreleased]: https://gitlab.com/fentras-labs/op-screenshooter/-/compare/v0.2.0...HEAD
-[0.2.0]: https://gitlab.com/fentras-labs/op-screenshooter/-/compare/v0.1...v0.2.0
-[0.1.0]: https://gitlab.com/fentras-labs/op-screenshooter/-/releases/v0.1
+[Unreleased]: https://gitlab.com/fentrasLABS/openplanet/screenshooter/-/compare/v0.2.0...HEAD
+[0.2.1]: https://gitlab.com/fentrasLABS/openplanet/screenshooter/-/compare/v0.2.0...v0.2.1
+[0.2.0]: https://gitlab.com/fentrasLABS/openplanet/screenshooter/-/compare/v0.1...v0.2.0
+[0.1.0]: https://gitlab.com/fentrasLABS/openplanet/screenshooter/-/releases/v0.1
